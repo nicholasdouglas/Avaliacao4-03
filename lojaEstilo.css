@@ -9,3 +9,9 @@
     margin-bottom: 6vh;
     margin-top: 6vh;
 }
+
+.card
+{
+    height: 300px;
+    width: 300px;
+}
